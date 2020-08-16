@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Alpha-1729
 
 <!-- My profile pic -->
-<img src="./images/profile.jpg" width="200px" height="200px">
+<img src="./images/profile.jpg" width="300px" height="300px">
 
 ## My GitHub Stats :point_down:
 
