@@ -8,50 +8,21 @@
 
 ## Languages Used
 
-<img align="left" src="./images/c.jpg" height="64px" width="64px">
-<img align="left" src="./images/python.jpg" height="64px" width="64px">
-<img align="left" src="./images/cpp.jpg" height="64px" width="64px">
-<img align="left" src="./images/csharp.jpg" height="64px" width="64px">
-<img align="left" src="./images/go.jpg" height="64px" width="64px">
-<img align="left" src="./images/perl.jpg" height="64px" width="64px">
-<img align="left" src="./images/ruby.jpg" height="64px" width="64px">
-<img align="left" src="./images/html.jpg" height="64px" width="64px">
-<img align="left" src="./images/css.jpg" height="64px" width="64px">
-<img align="left" src="./images/javascript.jpg" height="64px" width="64px">
-<img align="left" src="./images/php.jpg" height="64px" width="64px">
-<img align="left" src="./images/arduino.jpg" height="64px" width="64px"><>
-<br><br><hr>
+<img src="./images/python.jpg" height="64px" width="64px"><img src="./images/c.jpg" height="64px" width="64px"><img src="./images/cpp.jpg" height="64px" width="64px"><img src="./images/csharp.jpg" height="64px" width="64px"><img src="./images/go.jpg" height="64px" width="64px"><img src="./images/perl.jpg" height="64px" width="64px"><img src="./images/ruby.jpg" height="64px" width="64px"><img src="./images/html.jpg" height="64px" width="64px"><img src="./images/css.jpg" height="64px" width="64px"><img src="./images/javascript.jpg" height="64px" width="64px"><img src="./images/php.jpg" height="64px" width="64px"><img src="./images/arduino.jpg" height="64px" width="64px">
+
+<hr>
 
 <!-- Software -->
 
 ## :point_right:Favourite Software
 
-<img align="left" src="./images/kdenlive.jpg" height="64px" width="64px">
-<img align="left" src="./images/libreoffice.jpg" height="64px" width="64px">
-<img align="left" src="./images/github.jpg" height="64px" width="64px">
-<img align="left" src="./images/sublime.jpg" height="64px" width="64px">
-<img align="left" src="./images/arduino.jpg" height="64px" width="64px">
-<img align="left" src="./images/vscode.jpg" height="64px" width="64px">
-<img align="left" src="./images/vlc.jpg" height="64px" width="64px">
-<img align="left" src="./images/chrome.jpg" height="64px" width="64px">
-<img align="left" src="./images/brave.jpg" height="64px" width="64px">
-<img align="left" src="./images/mozilla.jpg" height="64px" width="64px">
-<img align="left" src="./images/tor.jpg" height="64px" width="64px">
-<img align="left" src="./images/sphere.jpg" height="64px" width="64px">
-<br><br><hr>
+<img src="./images/kdenlive.jpg" height="64px" width="64px"><img src="./images/libreoffice.jpg" height="64px" width="64px"><img src="./images/github.jpg" height="64px" width="64px"><img src="./images/sublime.jpg" height="64px" width="64px"><img src="./images/arduino.jpg" height="64px" width="64px"><img src="./images/vscode.jpg" height="64px" width="64px"><img src="./images/vlc.jpg" height="64px" width="64px"><img src="./images/chrome.jpg" height="64px" width="64px"><img src="./images/brave.jpg" height="64px" width="64px"><img src="./images/mozilla.jpg" height="64px" width="64px"><img src="./images/tor.jpg" height="64px" width="64px"><img src="./images/sphere.jpg" height="64px" width="64px"><hr>
 
 <!--  Os Used-->
 
 ## :point_right:Favourite OS
 
-<img align="left" src="./images/win7.jpg" height="64px" width="64px">
-<img align="left" src="./images/win8.jpg" height="64px" width="64px">
-<img align="left" src="./images/win10.jpg" height="64px" width="64px">
-<img align="left" src="./images/ubuntu.jpg" height="64px" width="64px">
-<img align="left" src="./images/kali.jpg" height="64px" width="64px">
-<img align="left" src="./images/parrot.jpg" height="64px" width="64px">
-<img align="left" src="./images/raspberry.jpg" height="64px" width="64px">
-<br><br><hr>
+<img src="./images/win7.jpg" height="64px" width="64px"><img src="./images/win8.jpg" height="64px" width="64px"><img src="./images/win10.jpg" height="64px" width="64px"><img src="./images/ubuntu.jpg" height="64px" width="64px"><img src="./images/kali.jpg" height="64px" width="64px"><img src="./images/parrot.jpg" height="64px" width="64px"><img src="./images/raspberry.jpg" height="64px" width="64px"><hr>
 
 <!--My Github Stats-->
 
