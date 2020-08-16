@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Alpha-1729 👋
 
-<!--
-**Alpha-1729/Alpha-1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Top Languages Used -->
+<!-- Themes supported ->dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula. -->
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.alpha-1729.vercel.app/api/top-langs/?username=Alpha-1729&theme=radical" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--My Github Stats-->
+<a href="https://github.com/Alpha-1729/Alpha-1729">
+  <img align="center" src="https://github-readme-stats.alpha-1729.vercel.app/api?username=Alpha-1729&theme=radical&show_icons=true&line_height=27&count_private=true&alt="Alpha-1729 GitHub Stats" />
+</a>
