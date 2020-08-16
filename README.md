@@ -1,5 +1,4 @@
-### Hi, I'm Alpha-1729 👋
-
+### Hi 👋, I'm Alpha-1729.
 
 ## My GitHub Stats :point_down:
 
@@ -10,10 +9,9 @@
 
 <!-- Top Languages Used -->
 <!-- Themes supported ->dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula. -->
-## Top Languages used :point_down:
+
+## Top Languages Used :point_down:
+
 <a href="https://github.com/natterstefan/natterstefan">
   <img align="center" src="https://github-readme-stats.alpha-1729.vercel.app/api/top-langs/?username=Alpha-1729&theme=radical" />
 </a>
-
-
-
