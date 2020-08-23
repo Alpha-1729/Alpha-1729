@@ -42,7 +42,7 @@
 
 ## <u>Top Languages Used</u>
 
-<a href="https://github.com/natterstefan/natterstefan">
+<a href="https://github.com/Alpha-1729/Alpha-1729">
   <img align="center" src="https://github-readme-stats.alpha-1729.vercel.app/api/top-langs/?username=Alpha-1729&theme=radical" />
 </a>
 
@@ -50,4 +50,10 @@
 
 #### Pinned
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=esp-wifi-captive-portal&show_owner=true&theme=radical)](https://github.com/Alpha-1729/esp-wifi-captive-portal)
+<a href="https://github.com/esp-wifi-captive-portal/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=esp-wifi-captive-portal&show_owner=true&theme=radical" />
+</a>
+<br><br>
+<a href="https://github.com/Name_The_Certificate/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Name_The_Certificate&show_owner=true&theme=radical" />
+</a>
