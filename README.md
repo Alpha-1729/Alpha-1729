@@ -50,8 +50,8 @@
 
 #### Pinned
 
-<a href="https://github.com/Alpha-1729/esp-wifi-captive-portal/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=esp-wifi-captive-portal&show_owner=true&theme=radical" />
+<a href="https://github.com/Alpha-1729/ESP_WiFi_Captive_Portal/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=ESP_WiFi_Captive_Portal&show_owner=true&theme=radical" />
 </a>
 <br><br>
 <a href="https://github.com/Alpha-1729/Name_The_Certificate/">
