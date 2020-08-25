@@ -50,10 +50,14 @@
 
 #### Pinned
 
-<a href="https://github.com/Alpha-1729/ESP_WiFi_Captive_Portal/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=ESP_WiFi_Captive_Portal&show_owner=true&theme=radical" />
-</a>
-<br><br>
 <a href="https://github.com/Alpha-1729/Name_The_Certificate/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Name_The_Certificate&show_owner=true&theme=radical" />
+</a>
+<a href="https://github.com/Alpha-1729/ESP_WiFi_Captive_Portal/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=ESP_WiFi_Captive_Portal&show_owner=true&theme=radical" />
+</a>
+
+
+<a href="https://github.com/Alpha-1729/Python_Simple_File_Classifier/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Python_Simple_File_Classifier&show_owner=true&theme=radical" />
 </a>
