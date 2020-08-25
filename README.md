@@ -33,7 +33,7 @@
 ## <u>My GitHub Stats</u>
 
 <a href="https://github.com/Alpha-1729/Alpha-1729">
-  <img align="center" src="https://github-readme-stats.alpha-1729.vercel.app/api?username=Alpha-1729&theme=radical&show_icons=true&line_height=27&count_private=true&alt="Alpha-1729 GitHub Stats" />
+  <img align="center"  src="https://github-readme-stats.alpha-1729.vercel.app/api?username=Alpha-1729&theme=radical&show_icons=true&line_height=27&count_private=true&alt="Alpha-1729 GitHub Stats" />
 </a>
 <hr>
 
@@ -50,15 +50,14 @@
 
 #### Pinned
 
-<a href="https://github.com/Alpha-1729/Name_The_Certificate/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Name_The_Certificate&show_owner=true&theme=radical" />
+<a  href="https://github.com/Alpha-1729/Name_The_Certificate/">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Name_The_Certificate&show_owner=true&theme=radical" />
 </a>
 <br><br>
 <a href="https://github.com/Alpha-1729/ESP_WiFi_Captive_Portal/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=ESP_WiFi_Captive_Portal&show_owner=true&theme=radical" />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=ESP_WiFi_Captive_Portal&show_owner=true&theme=radical" />
 </a>
-<br><br>
-
+<p align=width="10x">
 <a href="https://github.com/Alpha-1729/Python_Simple_File_Classifier/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Python_Simple_File_Classifier&show_owner=true&theme=radical" />
+  <img   align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Python_Simple_File_Classifier&show_owner=true&theme=radical" />
 </a>
