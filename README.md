@@ -2,8 +2,16 @@
 
 <!-- My profile pic -->
 <img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/profile.jpg" width="300px" height="300px">
-<hr>
 
+---
+
+<!-- Contact Me -->
+
+## <u>Contact Me</u>
+<a href="https://alpha-1729.github.io/Alpha-1729/">
+<img width="400" height="300" alt="Contact form" src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/contact.png">
+</a>
+---
 <!-- Languages -->
 
 ## <u>Languages Used</u>
