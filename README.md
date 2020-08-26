@@ -9,7 +9,7 @@
 
 ## <u>Contact Me</u> :point_down:
 
-<a href="https://alpha-1729.github.io/Alpha-1729/">
+<a href="https://alpha-1729.github.io/Alpha-1729/index.html">
 <img width="400" height="300" alt="Contact form" src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/contact.png">
 </a>
 
