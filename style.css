@@ -1,7 +1,10 @@
 div
 {
-  width:50%;
-  height:300px
+  max-width: 50%;
+  height:300px;
+  min-width: 320px;
+  
+
 }
 
 #container
@@ -9,6 +12,7 @@ div
   background-color:  black;
   align-content: center;
   padding: 20px;
+  min-width: 320px;
 }
 
 .data
@@ -34,6 +38,7 @@ textarea
   text-align: center;
   color: white;
   width: 30%;
+  min-width: 100px;
   height:40px;
   font-size: 18px;
 }
