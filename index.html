@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Me</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<!-- Ajax library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<body>
+
+  <h1><u>Contact Me</u></h1>
+<div id="container">
+  <form id="submit-form" action="">
+    <input class="data" name="name" placeholder="Name" type="text" required /><br />
+    <input class="data" name="email"placeholder="Email" type="email" required /><br />
+    <input class="data" name="subject"placeholder="Subject" type="text" required /><br />
+    <textarea placeholder="Message" name="message" type="text" required /></textarea><br />
+    <button id="button" name="submit" type="submit" id="submit-form">Submit</button>
+  </form>
+</div>
+
+<!-- Success Message -->
+<script>
+  $("#submit-form").submit((e)=>
+  {
+    e.preventDefault()
+    $.ajax(
+      {
+        url:"https://script.google.com/macros/s/AKfycbwD_GxGs4keltPJfRabwMv_DGrTL11EMLs1PB4gZVq947hHIqoW/exec",
+        data:$("#submit-form").serialize(),
+        method:"post",
+        success:function (response){
+          alert("Message sent successfully")
+          window.location.reload()
+        },
+        error:function (err){
+          alert("Message not sent")
+        }
+      })
+  })
+</script>
+  
+</body>
+</html>
+
+
+
+
+
+
