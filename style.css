@@ -3,8 +3,7 @@ body {
     padding: 0;
 }
 div {
-    max-width: 100%;
-    height: 300px;
+  height: 300px;
 }
 
 #container {
@@ -37,4 +36,22 @@ textarea {
     min-width: 100px;
     height: 40px;
     font-size: 18px;
+    font-weight: bold;
 }
+
+
+
+/* If the screen size is 601px or more, set the font-size of <div> to 80px */
+@media only screen and (min-width: 601px) {
+  div {
+    width: 600px;
+  }
+}
+
+/* If the screen size is 600px or less, set the font-size of <div> to 30px */
+@media only screen and (max-width: 600px) {
+  div {
+    width: 100vw;
+  }
+}
+
