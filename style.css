@@ -41,14 +41,14 @@ textarea {
 
 
 
-/* If the screen size is 601px or more, set the font-size of <div> to 80px */
+/* If the screen size is 601px or more, set width to 600px.  */
 @media only screen and (min-width: 601px) {
   div {
     width: 600px;
   }
 }
 
-/* If the screen size is 600px or less, set the font-size of <div> to 30px */
+/* If the screen size is 601px or less, set width to full. */
 @media only screen and (max-width: 600px) {
   div {
     width: 100vw;
