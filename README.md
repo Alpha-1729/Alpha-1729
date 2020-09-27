@@ -20,18 +20,7 @@
 
 ## Languages Used
 
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/python.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/c.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/cpp.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/csharp.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/go.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/perl.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/ruby.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/html.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/css.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/javascript.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/php.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/arduino.jpg" height="64px" width="64px">
+<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/python.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/c.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/cpp.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/csharp.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/go.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/perl.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/ruby.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/html.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/css.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/javascript.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/php.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/arduino.jpg" height="64px" width="64px">
 
 ---
 
@@ -39,18 +28,7 @@
 
 ## Favourite Software
 
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/kdenlive.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/libreoffice.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/github.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/sublime.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/arduino.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/vscode.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/vlc.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/chrome.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/brave.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/mozilla.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/tor.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/sphere.jpg" height="64px" width="64px">
+<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/kdenlive.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/libreoffice.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/github.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/sublime.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/arduino.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/vscode.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/vlc.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/chrome.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/brave.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/mozilla.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/tor.jpg" height="64px" width="64px"<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/sphere.jpg" height="64px" width="64px">
 
 ---
 
@@ -58,13 +36,7 @@
 
 ## Favourite OS
 
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/win7.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/win8.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/win10.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/ubuntu.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/kali.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/parrot.jpg" height="64px" width="64px">
-<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/raspberry.jpg" height="64px" width="64px">
+<img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/win7.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/win8.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/win10.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/ubuntu.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/kali.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/parrot.jpg" height="64px" width="64px"><img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/raspberry.jpg" height="64px" width="64px">
 
 ---
 
