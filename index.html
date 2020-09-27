@@ -1,49 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Me</title>
-  <link rel="stylesheet" href="style.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Contact Me</title>
+	<link rel="stylesheet" href="style.css">
 
-  <!-- Ajax Library -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
+	<!-- Ajax Library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
+
 <body>
-	<h1><u>Contact Me</u></h1>
-	<div id="container" >
-		<form id="submit-form" >
-		    <input class="data" name="name" placeholder="Name" type="text" required />
-		    <input class="data" name="email"placeholder="Email" type="email" required />
-		    <input class="data" name="subject"placeholder="Subject" type="text" required />
-		    <textarea placeholder="Message" name="message" type="text" required /></textarea>
-		    <button id="button" name="submit" type="submit" id="submit-form">SEND</button>
-	  	</form>
+	<h1>
+		<u>Contact Me</u>
+	</h1>
+	<div id="container">
+		<form id="submit-form">
+			<input class="data" name="name" placeholder="Name" type="text" required />
+			<input class="data" name="email" placeholder="Email" type="email" required />
+			<input class="data" name="subject" placeholder="Subject" type="text" required />
+			<textarea placeholder="Message" name="message" type="text" required /></textarea>
+			<button id="button" name="submit" type="submit" id="submit-form">SEND</button>
+		</form>
 	</div>
-<script>
-	$("#submit-form").submit((e)=>{
-		e.preventDefault()
-		$.ajax({
-			url:"https://script.google.com/macros/s/AKfycbxvR9i_Jv5i3v5QliTfC1jzvKGwXc61Ds1nWazW2Q/exec",
-			data:$("#submit-form").serialize(),
-			method:"post",
-			success:function (response){
-				alert("Form submitted successfully")
-				window.open( "https://github.com/Alpha-1729/Alpha-1729","_top" )
-			},
-			error:function (err){
-				alert("Something Error")
-				window.open("https://github.com/Alpha-1729/Alpha-1729","_top" )
-			}
+	<script>
+		$("#submit-form").submit((e) => {
+			e.preventDefault()
+			$.ajax({
+				url: "https://script.google.com/macros/s/AKfycbxvR9i_Jv5i3v5QliTfC1jzvKGwXc61Ds1nWazW2Q/exec",
+				data: $("#submit-form").serialize(),
+				method: "post",
+				success: function (response) {
+					alert("Form submitted successfully")
+					window.open("https://github.com/Alpha-1729/Alpha-1729", "_top")
+				},
+				error: function (err) {
+					alert("Something Error")
+					window.open("https://github.com/Alpha-1729/Alpha-1729", "_top")
+				}
+			})
 		})
-	})
-</script>
+	</script>
 </body>
+
 </html>
-
-
-
-
-
-
