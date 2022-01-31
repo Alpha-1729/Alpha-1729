@@ -72,6 +72,6 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=ESP_WiFi_Captive_Portal&show_owner=true&theme=radical" />
 </a>
 <br><br>
-<a href="https://github.com/Alpha-1729/Python_Simple_File_Classifier/">
-  <img   align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Python_Simple_File_Classifier&show_owner=true&theme=radical" />
+<a href="https://github.com/Alpha-1729/Python_Simple_File_Sorter/">
+  <img   align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-1729&repo=Python_Simple_File_Sorter&show_owner=true&theme=radical" />
 </a>
