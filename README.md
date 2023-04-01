@@ -1,7 +1,7 @@
 <!-- Profile views -->
 <img align="center" src="https://komarev.com/ghpvc/?username=Alpha-1729&style=flat-square" />
 
-### Hi 👋, I'm Alpha-1729
+### Hi 👋, I'm Anil Kumar S
 
 <!-- My profile pic -->
 <img src="https://raw.githubusercontent.com/Alpha-1729/Alpha-1729/master/images/profile.jpg" width="300px" height="300px">
